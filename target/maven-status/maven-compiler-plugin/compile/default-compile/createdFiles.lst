@@ -1,0 +1,4 @@
+com\querydsl\intro\entities\User.class
+com\querydsl\intro\entities\QUser.class
+com\querydsl\intro\entities\QBlogPost.class
+com\querydsl\intro\entities\BlogPost.class
