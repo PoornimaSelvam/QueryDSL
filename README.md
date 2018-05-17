@@ -1,6 +1,6 @@
 # QueryDSL
 Querydsl API for data persistence.
 
-Relevant Articles:
-Intro to Querydsl
-A Guide to Querydsl with JPA
+### Relevant Articles:
+- [Intro to Querydsl](http://www.baeldung.com/intro-to-querydsl)
+- [A Guide to Querydsl with JPA](http://www.baeldung.com/querydsl-with-jpa-tutorial)
